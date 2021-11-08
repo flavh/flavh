@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flavh
 - 👀 I’m interested in web dev
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning C
 
 
 <!---
